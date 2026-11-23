@@ -1,0 +1,7 @@
+Gene,Mutation,First_reported_isolate,Reported_frequency,Observation
+mmpR5,Asp47fs,3,Not specified,Frameshift variant identified
+mmpR5,Glu49fs,5,71%,Frequency increased by isolate 8
+gyrA,Ala90Val,1,10%,Not detected in isolate 2
+gyrA,Asp94Gly,3,Not specified,Detected from isolate 3 onwards
+ald,Frameshift,5,17%,Detected in isolates 5 and 6
+ald,Frameshift,8,Not detected,Not detected in isolate 8

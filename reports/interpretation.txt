@@ -1,0 +1,24 @@
+TANZANIA XDR-TB CASE: MUTATION ANALYSIS
+
+1. mmpR5 (Rv0678)
+Two frameshift variants were reported:
+- Asp47fs: first reported in isolate 3.
+- Glu49fs: first reported in isolate 5, reaching 71% frequency in isolate 8.
+
+These findings suggest changes in the bacterial subpopulations over time.
+
+2. gyrA
+- Ala90Val: reported at 10% in isolate 1 and not detected in isolate 2.
+- Asp94Gly: first reported in isolate 3 and detected in later isolates.
+
+These variants are associated with fluoroquinolone resistance.
+
+3. ald
+- A frameshift variant was reported at 17% in isolates 5 and 6.
+- It was not detected in isolate 8.
+
+4. Overall interpretation
+Serial whole-genome sequencing can help identify changes in resistance-associated variants over time. The findings highlight the importance of monitoring bacterial populations during treatment.
+
+IMPORTANT LIMITATION
+These results are based on information reported in the published case study. They are not independently reproduced from the patient's original sequencing reads.
